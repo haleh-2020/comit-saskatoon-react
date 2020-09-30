@@ -22,6 +22,7 @@ The most important skills to develop are problem-solving and self-learning. I'm 
   - Paste JSON as Code
   - Prettier
   - REST Client
+  - 30 test
 - git
 - Node and npm
 
