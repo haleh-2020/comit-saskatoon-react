@@ -24,6 +24,7 @@ The most important skills to develop are problem-solving and self-learning. I'm 
   - REST Client
 - git
 - Node and npm
+- test
 
 ## Accounts
 - GitHub
