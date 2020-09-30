@@ -23,6 +23,7 @@ The most important skills to develop are problem-solving and self-learning. I'm 
   - Prettier
   - REST Client
   - 30 test
+  - create branch
 - git
 - Node and npm
 
